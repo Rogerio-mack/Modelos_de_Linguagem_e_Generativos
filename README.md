@@ -10,5 +10,7 @@ rogerio.oliveira@mackenzie.br
 * [Introdução](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/MLG_01_Introducao.ipynb)
 * [Luhn e Zipf Law](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Zipf_Law.ipynb)
 
-> *Introdução ao processamento de linguagem natural; representações vetorais BOW, TF-IDF; similaridade cosseno; Lei de Zipf; outras representações vetorais; 
+<br>
+
+> *Programa; Visão geral do curso; Introdução ao processamento de linguagem natural; representações vetorais BOW, TF-IDF; similaridade cosseno; Lei de Zipf; outras representações vetorais; 
 tarefas de modelos de linguagem; importância dos termos no aprendizado de máquina.*
