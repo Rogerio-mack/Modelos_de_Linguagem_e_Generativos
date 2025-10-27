@@ -3,6 +3,16 @@ rogerio.oliveira@mackenzie.br
 
 <br>
 
+### **Link dos Encontros Síncronos**
+
+> * [27 Outubro](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTgyOGU2YTgtYTNjNi00ZTFjLWJjNDItOWJlODk3NzY4ZmVj%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%22e7fc012e-6f57-4879-9416-93179af90e74%22%7d)
+| [10 Novembro](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTgyOGU2YTgtYTNjNi00ZTFjLWJjNDItOWJlODk3NzY4ZmVj%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%22e7fc012e-6f57-4879-9416-93179af90e74%22%7d)
+| [18 Novembro](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTgyOGU2YTgtYTNjNi00ZTFjLWJjNDItOWJlODk3NzY4ZmVj%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%22e7fc012e-6f57-4879-9416-93179af90e74%22%7d)
+| [24 Novembro](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTgyOGU2YTgtYTNjNi00ZTFjLWJjNDItOWJlODk3NzY4ZmVj%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%22e7fc012e-6f57-4879-9416-93179af90e74%22%7d)
+| [08 Dezembro](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjZmNzVkYTUtNTI4NS00ZTEzLThlNzEtNThjYzM4ZDc3ZTQz%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%22e7fc012e-6f57-4879-9416-93179af90e74%22%7d)
+
+<br>
+
 ## Aula 1
 
 * [Questionário pré-curso](https://forms.gle/LkD3H8LBB6GpvZLv7)
