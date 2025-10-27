@@ -28,12 +28,9 @@ rogerio.oliveira@mackenzie.br
 
 * [Luhn e Zipf Law](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Zipf_Law.ipynb) 
 * [Aprendizado de Máquina Supervisionado](https://github.com/Rogerio-mack/Machine-Learning-I) | [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/MLG_02_ML_Supervisionado_review.ipynb) | [Exercício](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/MLG_02_ML_Supervisionado_exercicio.ipynb)
-
-> *Cap1. Classificação e Regressão; Cap4. Métricas de Classificação; Cap5. Seleção de Atributos; Cap6. Validação Cruzada.*
-
 * [TF-IDF, TfidfVectorizer e Feature Importance](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/TFIDF_Feature_Importance.ipynb)
 
-> *TF-IDF, TfidfVectorizer e Feature Importance.*
+> *Lei de Zipf; Revisão Aprendizado de Máquina (Supervisionado): Cap1. Classificação e Regressão; Cap4. Métricas de Classificação; Cap5. Seleção de Atributos; Cap6. Validação Cruzada; TF-IDF, TfidfVectorizer e Feature Importance.*
 
 
 
