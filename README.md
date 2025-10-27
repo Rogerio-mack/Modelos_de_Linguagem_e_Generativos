@@ -32,7 +32,7 @@ rogerio.oliveira@mackenzie.br
 
 <br>
 
-> *Lei de Zipf; Revisão Aprendizado de Máquina (Supervisionado): Cap1. Classificação e Regressão; Cap4. Métricas de Classificação; Cap5. Seleção de Atributos; Cap6. Validação Cruzada; TF-IDF, TfidfVectorizer e Feature Importance.*
+> *Lei de Zipf; Revisão Aprendizado de Máquina (Supervisionado): Cap1. Classificação e Regressão; Cap4. Sobreajuste e Conjuntos de Treinamento e Teste; Cap4. Métricas de Classificação; Cap5. Seleção de Atributos; TF-IDF, TfidfVectorizer e Feature Importance.*
 
 
 
