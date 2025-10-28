@@ -40,3 +40,5 @@ rogerio.oliveira@mackenzie.br
 * [Redes Neurais e Deep Learning](https://github.com/Rogerio-mack/Deep-Learning-I) *Cap. 3, 4* | [Exercício](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/TF_TFIDF_classification.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/TF_TFIDF_classification_solucao.ipynb)
 
 > * Leitura complementar (explore): Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2023). [Dive into deep learning](https://d2l.ai/). Cambridge University Press.
+
+> *Modelos de redes neurais; Frameworks de Deep Learning; Auto Gradiente; GPU; TensorFlow Sequentical; Cross Entropy* 
