@@ -27,13 +27,16 @@ rogerio.oliveira@mackenzie.br
 ## Aula 2
 
 * [Luhn e Zipf Law](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Zipf_Law.ipynb) 
-* [Aprendizado de Máquina Supervisionado](https://github.com/Rogerio-mack/Machine-Learning-I) | [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/MLG_02_ML_Supervisionado_review.ipynb) | [Exercício](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/MLG_02_ML_Supervisionado_exercicio.ipynb)
+* [Aprendizado de Máquina Supervisionado](https://github.com/Rogerio-mack/Machine-Learning-I) *Cap. 1, 4, 5* | [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/MLG_02_ML_Supervisionado_review.ipynb) | [Exercício](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/MLG_02_ML_Supervisionado_exercicio.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/MLG_02_ML_Supervisionado_solucao.ipynb)
 * [TF-IDF, TfidfVectorizer e Feature Importance](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/TFIDF_Feature_Importance.ipynb)
 
 <br>
 
-> *Lei de Zipf; Revisão Aprendizado de Máquina (Supervisionado): Cap1. Classificação e Regressão; Cap4. Sobreajuste e Conjuntos de Treinamento e Teste; Cap4. Métricas de Classificação; Cap5. Seleção de Atributos; TF-IDF, TfidfVectorizer e Feature Importance.*
+> *Lei de Zipf; Revisão Aprendizado de Máquina (Supervisionado): Cap1. Classificação e Regressão; Cap4. Sobreajuste e Conjuntos de Treinamento e Teste; Cap4. Métricas de Classificação; Cap5. Seleção de Atributos; TF-IDF, TfidfVectorizer para ML.*
 
+## Aula 3
 
+* [TF-IDF, TfidfVectorizer e Feature Importance](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/TFIDF_Feature_Importance.ipynb)
+* [Redes Neurais e Deep Learning](https://github.com/Rogerio-mack/Deep-Learning-I) *Cap. 3, 4* | [Exercício](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/TF_TFIDF_classification.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/TF_TFIDF_classification_solucao.ipynb)
 
-
+> * Leitura complementar (explore): Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2023). [Dive into deep learning](https://d2l.ai/). Cambridge University Press.
