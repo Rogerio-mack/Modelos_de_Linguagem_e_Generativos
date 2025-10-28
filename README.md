@@ -41,4 +41,7 @@ rogerio.oliveira@mackenzie.br
 
 > * Leitura complementar (explore): Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2023). [Dive into deep learning](https://d2l.ai/). Cambridge University Press.
 
+> * [Exercício 1](https://forms.gle/pCuauRw1kcH4FqvS8)
+<br>
+
 > *Modelos de redes neurais; Frameworks de Deep Learning; Auto Gradiente; GPU; TensorFlow Sequentical; Cross Entropy* 
