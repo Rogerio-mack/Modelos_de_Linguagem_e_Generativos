@@ -82,3 +82,4 @@ Para todos projetos:
 
 > * [Exercício 2](https://forms.gle/SeQ9NZok2GH3CERn8) Empregando o como modelo [TensorFlow & Word2Vec](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/TF_word2vec.ipynb), treine um modelo próprio em português exibindo alguns resultados. *Bom para, 15.Nov*
 
+> *Word embedding; Word2Vec; Redução de Dimensionalidade; CBOW e Skip-gram*
