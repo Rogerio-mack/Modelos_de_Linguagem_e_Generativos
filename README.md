@@ -69,4 +69,9 @@ Para todos projetos:
 > * [Exercício 1](https://forms.gle/pCuauRw1kcH4FqvS8) *Bom para, 07.Nov*
 <br>
 
-> *Modelos de redes neurais; Frameworks de Deep Learning; Auto Gradiente; GPU; TensorFlow Sequentical; Cross Entropy* 
+> *Modelos de redes neurais; Frameworks de Deep Learning; Auto Gradiente; GPU; TensorFlow Sequentical; Cross Entropy*
+
+## Aula 4
+
+* [PCA, by defition (math)](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/IMT_PCA_by_definition.ipynb)
+* [PCA, scikit-learn, Clustering and Classification](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/IMT_PCA_scikitlearn.ipynb)
