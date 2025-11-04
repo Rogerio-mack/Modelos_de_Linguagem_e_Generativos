@@ -73,5 +73,12 @@ Para todos projetos:
 
 ## Aula 4
 
-* [PCA, by defition (math)](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/IMT_PCA_by_definition.ipynb)
-* [PCA, scikit-learn, Clustering and Classification](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/IMT_PCA_scikitlearn.ipynb)
+* [Word Embedding](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Word_Embedding_spaCy_Gensim.ipynb)
+> * [PCA, by defition (math)](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/IMT_PCA_by_definition.ipynb)
+> * [PCA, scikit-learn, Clustering and Classification](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/IMT_PCA_scikitlearn.ipynb)
+> * [TensorFlow Embedding](https://www.tensorflow.org/text/tutorials/word_embeddings)
+
+> * Leitura complementar: Christopher Manning, Richard Socher. [Natural Language Processing with Deep Learning. Lecture Notes: Part I Word Vectors I: Introduction, SVD and Word2Vec](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)
+
+> * [Exercício 2](https://forms.gle/SeQ9NZok2GH3CERn8) Empregando o como modelo [TensorFlow & Word2Vec](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/TF_word2vec.ipynb), treine um modelo próprio em português exibindo alguns resultados. *Bom para, 15.Nov*
+
