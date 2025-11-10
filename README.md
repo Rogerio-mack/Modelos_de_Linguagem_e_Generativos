@@ -83,3 +83,10 @@ Para todos projetos:
 > * [Exercício 2](https://forms.gle/SeQ9NZok2GH3CERn8) Empregando o como modelo [TensorFlow & Word2Vec](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/TF_word2vec.ipynb), treine um modelo próprio em português exibindo alguns resultados. *Bom para, 15.Nov*
 
 > *Word embedding; Representação interna em uma rede neural; Redução de Dimensionalidade; Word2Vec; CBOW e Skip-gram*
+
+## Aula 5 
+
+* [Como os Transformers Funcionam?](https://github.com/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/4.md)
+> * [Explore aqui os mecanismos de Atenção e Transformers](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Attention_and_Transformers_Explorer.ipynb)
+
+> *Mecanismo de Atenção; Tokenization e Models Transformers*
