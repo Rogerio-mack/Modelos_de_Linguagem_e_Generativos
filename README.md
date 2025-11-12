@@ -98,7 +98,7 @@ Para todos projetos:
 ## Aula 6
 
 * [De Volta a Representação Interna em uma Rede Neural](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Representacao_Interna_NN.ipynb)
-* [Deep dive into Atenção e Transformers](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Atencao_QKV_transformers.ipynb.ipynb)
+* [Deep dive into Atenção e Transformers](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Atencao_QKV_transformers.ipynb)
 * [Diferentes Tarefas com LLMs: *o pulo do gato!*](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/LLMs_Text_Classification.ipynb)
 
 > *Cabeças de leitura, Paralelismo e Camadas Transformers; Diferentes Tarefas com LLMs: Modelos específicos, de incorporação e com modelos Generativos; Zero-shot Classification*
