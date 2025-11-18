@@ -105,3 +105,10 @@ Para todos projetos:
 
 > * [Exercício 3](https://forms.gle/aV6xAF2SsKzVGkj77) *Bom para, 22.Nov*
 
+## Aula 7
+
+* [TF Classificação de Dígitos MNIST, MLP X Conv2D](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/MLG_TF_MNIST_Classifier.ipynb)
+* [TF Classificação de Imagens, Conv2D](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/MLG_TF_ImageClassifier.ipynb)
+* [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+
+
