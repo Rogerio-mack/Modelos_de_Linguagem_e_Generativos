@@ -117,6 +117,7 @@ Para todos projetos:
 * [Object Detection (Yolo5, ResNet)](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/Yolov5_Resnet50_object_detection.ipynb)
 * [Yolo11, e outras tarefas de visão computacional](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Yolo11_Detection_Image_Video_Pose.ipynb)
 * [Auto Encoders](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T7.ipynb)
+* [Aplicação de Estilos em Imagens, `AdaIN`](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Magenta_art_generator.ipynb)
 
 > * [Capítulo 6: Chabots Inteligentes na Saúde: Implementações com Modelos Abertos e Dados Próprios](https://github.com/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Capitulo_6_LLM.pdf)
 
