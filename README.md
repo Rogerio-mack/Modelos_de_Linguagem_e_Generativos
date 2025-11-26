@@ -126,7 +126,7 @@ Para todos projetos:
 > * Leitura complementar: Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow. [Chapter 17](https://drive.google.com/file/d/1pJAWwpLgzD4sJGYFHWsxNpWCfKwRk-qX/view?usp=sharing). O'Reilly Media, Inc.
 > * [Capítulo 6: Chabots Inteligentes na Saúde: Implementações com Modelos Abertos e Dados Próprios](https://github.com/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Capitulo_6_LLM.pdf)
 
-
+> * [Exercício 4](https://forms.gle/XqBP65UUFfvr9Xkh9) *Bom para, 30.Nov*
 
 
 
