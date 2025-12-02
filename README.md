@@ -128,5 +128,7 @@ Para todos projetos:
 
 > * [Exercício 4](https://forms.gle/XqBP65UUFfvr9Xkh9) *Bom para, 30.Nov*
 
+## Aula 10
 
-
+* [Capítulo 6: Chabots Inteligentes na Saúde: Implementações com Modelos Abertos e Dados Próprios](https://github.com/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Capitulo_6_LLM.pdf)
+* [Auto Encoders](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/RAG.ipynb)
