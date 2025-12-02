@@ -132,4 +132,4 @@ Para todos projetos:
 
 * [Capítulo 6: Chabots Inteligentes na Saúde: Implementações com Modelos Abertos e Dados Próprios](https://github.com/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Capitulo_6_LLM.pdf)
 * [Fine-Tuning ResNet18 com PyTorch Lightning (PL)](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Fine_Tune_Images_PyTorch_Lightning.ipynb)
-* [Auto Encoders](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/RAG.ipynb)
+* [RAG Retrieval-augmented generation](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/RAG.ipynb)
