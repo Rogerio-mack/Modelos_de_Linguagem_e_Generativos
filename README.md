@@ -144,7 +144,7 @@ Para todos projetos:
 
 > * Leitura complementar, Khaled Bayoudh (2024) [**A survey of multimodal hybrid deep learning for computer vision: Architectures, applications, trends, and challenges**](https://github.com/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/multimodal_concatenate.pdf)
 
-> * [Avaliaçãp Pós Curso](https://forms.gle/8SaAs3RDpJsXCWiL9): *Verifique aqui os seus conhecimentos! Não se preocupe, não é avaliativo!* 
+> * [Avaliaçãp Pós Curso](https://forms.gle/wxgBH5nZWuMp8spJ9): *Verifique aqui os seus conhecimentos! Não se preocupe, não é avaliativo!* 
 
 <br>
 
