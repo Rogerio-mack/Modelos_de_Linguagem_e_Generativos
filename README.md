@@ -152,4 +152,5 @@ Para todos projetos:
 
 * **Apresentação dos Trabalhos**
 * [**Poste aqui o link do seu projeto**](https://forms.gle/Ga1jzCnqBs6A75nHA)
+* [Avalie a disciplina (Anônimo)](https://forms.gle/zsSRoovsSaF6mKVf9)
 
